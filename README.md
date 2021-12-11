@@ -1,0 +1,2 @@
+# majiangclass
+mahjong game, 
